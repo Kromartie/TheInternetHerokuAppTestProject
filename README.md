@@ -1,4 +1,4 @@
-# The Internet Heroku App Automation Framework
+# TheInternetHerokuAppTestProject
 
 ## Overview
 
