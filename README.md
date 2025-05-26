@@ -133,8 +133,7 @@ To add tests for new pages:
 
 1. Create a new Page class in Core/Pages
 2. Register it in TestContainer.cs
-3. Create test fixtures in the Tests project![image](https://github.com/user-attachments/assets/6aa36e2c-ae1e-444a-b7fa-0644fe35b122)
-
+3. Create test fixtures in the Tests project
 
 ## Contribution
 Contributions are welcome! Feel free to fork this repository, add new tests, or improve existing ones, and submit a pull request.
